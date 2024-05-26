@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nyoba</folder>
+	<filename>no_d1f8832b.jpg</filename>
+	<path>C:\Users\zadan\Documents\Coolyeah\SEMESTER 6\Pengolahan Citra Digital (PCD)\nyoba\no_d1f8832b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>719</width>
+		<height>899</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>152</ymin>
+			<xmax>683</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

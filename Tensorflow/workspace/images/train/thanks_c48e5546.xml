@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nyoba</folder>
+	<filename>thanks_c48e5546.jpg</filename>
+	<path>C:\Users\zadan\Documents\Coolyeah\SEMESTER 6\Pengolahan Citra Digital (PCD)\nyoba\thanks_c48e5546.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>719</width>
+		<height>899</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>441</ymin>
+			<xmax>564</xmax>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+</annotation>

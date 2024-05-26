@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nyoba</folder>
+	<filename>yes_68e67185.jpg</filename>
+	<path>C:\Users\zadan\Documents\Coolyeah\SEMESTER 6\Pengolahan Citra Digital (PCD)\nyoba\yes_68e67185.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>719</width>
+		<height>899</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>469</xmin>
+			<ymin>428</ymin>
+			<xmax>682</xmax>
+			<ymax>630</ymax>
+		</bndbox>
+	</object>
+</annotation>
